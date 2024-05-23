@@ -77,7 +77,7 @@ export default function Page() {
           </li>
 
           </ul>
-          <p>I also played a pivotal role in implementing AI chatbots for our company's product line. </p>
+          <p>I also played a pivotal role in implementing AI chatbots for our company&apos;s product line. </p>
           <h3>Key Contributions</h3>
         <ul className="list-inside list-disc">
           <li>
@@ -126,7 +126,7 @@ export default function Page() {
         <H2>Education</H2>
         <p>
           <strong>B.Tech CSE (2019-2023)</strong><br />
-        Nalla Narsimha Reddy Education Society`s Group of Institutions <br />
+        Nalla Narsimha Reddy Education Society&apos;s Group of Institutions <br />
         CGPA : 7.0
         </p>
         <p>
