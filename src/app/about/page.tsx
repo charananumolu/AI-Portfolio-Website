@@ -65,7 +65,7 @@ export default function Page() {
         <h3>Key Contributions</h3>
         <ul className="list-inside list-disc">
           <li>
-            Spearheaded backend development tasks, implementing robust Java code to support the platform's functionality. 
+            Spearheaded backend development tasks, implementing robust Java code to support the platform&apos;s functionality. 
           </li>
           <li>
           Collaborated with frontend developers, QA teams, and product managers in an agile development environment to ensure seamless integration of
