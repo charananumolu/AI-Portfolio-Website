@@ -143,6 +143,28 @@ export default function Page() {
         
         
       </section>
+      <section className="space-y-3">
+        <H2>Social Links</H2>
+        <li>
+            <a
+              href="https://www.linkedin.com/in/charan-anumolu-00998a221/"
+              className="text-primary hover:underline"
+            >
+              LinkedIn
+            </a>
+            
+          </li>
+          <li>
+            <a
+              href="https://github.com/charananumolu"
+              className="text-primary hover:underline"
+            >
+              GitHub
+            </a>
+            
+          </li>
+      </section>
+
     </section>
   );
 }

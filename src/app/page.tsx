@@ -16,8 +16,7 @@ export default function Home() {
         <div className="space-y-3">
           <H1 className="text-center sm:text-start">Hi, I&apos;m Charan 👋</H1>
           <p className="text-center sm:text-start">
-            I&apos;m a full-stack developer from India who builds cool
-            projects and makes tutorials about them on Youtube.
+            I&apos;m a Jr Software developer.
           </p>
         </div>
         <div className="flex justify-center">
